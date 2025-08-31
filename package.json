@@ -80,10 +80,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xyrootzz123/TES.git"
+    "url": "git+https://github.com/xyrootzz123/monyet.git"
   },
   "bugs": {
-    "url": "https://github.com/xyrootzz123/TES/issues"
+    "url": "https://github.com/xyrootzz123/monyet/issues"
   },
-  "homepage": "https://github.com/xyrootzz123/TES#readme"
+  "homepage": "https://github.com/xyrootzz123/monyet#readme"
 }
