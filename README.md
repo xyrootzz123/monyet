@@ -44,7 +44,7 @@ If errors persist even after debugging, please contact the owner for assistance.
 
 ```bash
 git clone https://github.com/xyrootzz123/monyet.git
-cd monyet
+cd folder
 npm install
 npm update
 ```
@@ -57,7 +57,7 @@ pkg install nodejs
 pkg install ffmpeg
 pkg install imagemagick
 git clone https://github.com/xyrootzz123/monyet.git
-cd monyet
+cd folder 
 npm install
 
 
@@ -79,5 +79,3 @@ node .
 - Support Qr Code
 - Support Pairing Code
 ---
-
-
