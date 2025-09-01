@@ -43,7 +43,7 @@ If errors persist even after debugging, please contact the owner for assistance.
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/xyrootzz123/monyet.git
+git clone https://github.com/xyrootzz123/monyet
 cd monyet 
 npm install
 npm update
@@ -56,7 +56,7 @@ pkg install git
 pkg install nodejs
 pkg install ffmpeg
 pkg install imagemagick
-git clone https://github.com/xyrootzz123/monyet.git
+git clone https://github.com/xyrootzz123/monyet
 cd monyet 
 npm install
 
@@ -79,4 +79,5 @@ node .
 - Support Qr Code
 - Support Pairing Code
 ---
+
 
