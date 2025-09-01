@@ -1,13 +1,13 @@
 ## Information
 
 <div align="center">
-<a href="https://github.com/xyrootzz123/TES/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/xyrootzz123/TES?label=Watchers&color=green&style=flat-square"></a>
-<a href="https://github.com/xyrootzz123/TES/network/members"><img title="Forks" src="https://img.shields.io/github/forks/xyrootzz123/TES?label=Forks&color=blue&style=flat-square"></a>
-<a href="https://github.com/xyrootzz123/TES/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/xyrootzz123/TES?label=Stars&color=yellow&style=flat-square"></a>
-<a href="https://github.com/xyrootzz123/TES/issues"><img title="Issues" src="https://img.shields.io/github/issues/xyrootzz123/TES?label=Issues&color=success&style=flat-square"></a>
-<a href="https://github.com/xyrootzz123/TES/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/xyrootzz123/TES?label=Issues&color=red&style=flat-square"></a>
-<a href="https://github.com/xyrootzz123/TES/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/xyrootzz123/TES?label=PullRequest&color=success&style=flat-square"></a>
-<a href="https://github.com/xyrootzz123/TES/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/xyrootzz123/TES?label=PullRequest&color=red&style=flat-square"></a>
+<a href="https://github.com/xyrootzz123/monyet/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/xyrootzz123/monyet?label=Watchers&color=green&style=flat-square"></a>
+<a href="https://github.com/xyrootzz123/monyet/network/members"><img title="Forks" src="https://img.shields.io/github/forks/xyrootzz123/monyet?label=Forks&color=blue&style=flat-square"></a>
+<a href="https://github.com/xyrootzz123/monyet/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/xyrootzz123/monyet?label=Stars&color=yellow&style=flat-square"></a>
+<a href="https://github.com/xyrootzz123/monyet/issues"><img title="Issues" src="https://img.shields.io/github/issues/xyrootzz123/monyet?label=Issues&color=success&style=flat-square"></a>
+<a href="https://github.com/xyrootzz123/monyet/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/xyrootzz123/monyet?label=Issues&color=red&style=flat-square"></a>
+<a href="https://github.com/xyrootzz123/monyet/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/xyrootzz123/monyet?label=PullRequest&color=success&style=flat-square"></a>
+<a href="https://github.com/xyrootzz123/monyet/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/xyrootzz123/monyet?label=PullRequest&color=red&style=flat-square"></a>
 </div>
 
 This script is created by [Xyroo](https://github.com/xyroo) using Node.js and the [WhiskeySocket/Baileys](https://github.com/WhiskeySockets/Baileys) library.  
@@ -18,14 +18,14 @@ If errors persist even after debugging, please contact the owner for assistance.
 
 - [xyroo](https://github.com/xyroo) (Pembuat)
 - [Zaynn](https://github.com/ZaynRcK) (Penyedia Layanan API)
-- [Dani](https://github.com/nazedev) (Penyumbang Code)
+- [Dani](https://github.com/xyroo) (Penyumbang Code)
 
 #### Join Group
 [![Grup WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Hx9vcBVhbc04KLVGPFtH2R) 
 
 ---
 #### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xyrootzz123/TES)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xyrootzz123/monyet)
 
 #### Heroku Buildpack
 | Build Pack | LINK |
@@ -43,7 +43,7 @@ If errors persist even after debugging, please contact the owner for assistance.
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/xyrootzz123/TES
+git clone https://github.com/xyrootzz123/monyet
 cd folder
 npm install
 npm update
@@ -56,7 +56,7 @@ pkg install git
 pkg install nodejs
 pkg install ffmpeg
 pkg install imagemagick
-git clone https://github.com/xyrootzz123/TES
+git clone https://github.com/xyrootzz123/monyet
 cd folder 
 npm install
 
